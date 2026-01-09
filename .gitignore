@@ -96,6 +96,9 @@ models/*.joblib
 results/
 *.log
 
+# Scripts
+src/create_results.py
+
 # Logs
 *.log
 logs/
