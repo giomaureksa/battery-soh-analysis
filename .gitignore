@@ -89,7 +89,8 @@ checkpoints/         # Training checkpoints
 plots/
 outputs/
 predictions/
-figures/*.png
+figures/eda
+figures/modeling
 models/*.pkl
 models/*.joblib
 results/
