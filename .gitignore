@@ -103,7 +103,6 @@ mlruns/              # MLflow
 wandb/               # Weights & Biases
 
 # Visualization files
-*.png
 *.jpg
 *.jpeg
 *.pdf
