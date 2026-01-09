@@ -215,9 +215,7 @@ redistribution or commercial use considerations.
 
 CONTACT INFORMATION
 ===============================================================================
-Author: Gio Maureksa Nugraha
-Email: giomaureksa026@gmail.com
-GitHub: https://github.com/gmreksan
-
-Project Repository:
-https://github.com/gmreksan/battery-soh-analysis.git
+- Author: Gio Maureksa Nugraha
+- Email: giomaureksa026@gmail.com
+- GitHub: https://github.com/giomaureksa
+- Project Repository: https://github.com/giomaureksa/battery-soh-analysis.git
