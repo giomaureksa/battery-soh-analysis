@@ -87,9 +87,7 @@ checkpoints/         # Training checkpoints
 *.pth
 *.pt
 *.onnx
-figures/             # Generated plots
 plots/
-results/             # Analysis results
 outputs/
 predictions/
 
