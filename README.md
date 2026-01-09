@@ -220,4 +220,4 @@ Email: giomaureksa026@gmail.com
 GitHub: https://github.com/gmreksan
 
 Project Repository:
-https://github.com/gmreksan/battery-soh-analysis
+https://github.com/gmreksan/battery-soh-analysis.git
